@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpheihah.shirtroom-jw.com/sitemap.xml
